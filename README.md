@@ -56,6 +56,6 @@ Web3Wallet SDK introduces a new interface for all wallets that wraps the Sign an
 
 Apache 2.0
 
-## Guides
+    ## Guides
 
 - [Artifacts sometimes not available in Actions -> Build name -> Artifacts?](./docs/guides/downloading_artifacts.md)
